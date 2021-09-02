@@ -23,8 +23,8 @@ p{
    border: solid 3px black;
    padding: 40px 10px 10px 10px;
    margin: 0px 10px 10px 10px;
-   height: 160px;
-   overflow: hidden;
+   height: 140px;
+   overflow:scroll;
 
 }
 #p1{
